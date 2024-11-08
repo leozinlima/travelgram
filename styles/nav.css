@@ -4,6 +4,8 @@ nav {
     padding-block: 20px;
     align-items: center;
     line-height: 0;
+
+    font: 14px/150% var(--font-family);
 }
 
 nav ul {
